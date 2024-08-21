@@ -41,6 +41,11 @@ locals {
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHZuoIwLhSLkChxOWJZqb+YpLMoE1ql0OHrLCh2fq14O bowen.liang@student.pxl.be",
       ]
     }
+    Emiel = {
+      ssh_keys = [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDFqlip9Nx0tmqMhAEGys/kzGEN4+pzhE3bUtV4u0XCO3KNWIpdJafngou0rzoTyI278Bm/oALJvRGtkXT9X3n+NWCWBvDWbW7rudvmnlIbaomT94LskdVBHI/Rs/XSnOx+U/4698d37M5v/SKOP9X0/whL4WMjDE84lqEeMHNyWSYMeJ7b8MxQoY3h7aN2up0m5nxYRkYpqcoNDOicHEzU1+kf4HNa1JOo+1pT69tD6kfgy8i7dGr4A+eROWKfvDCq57MQaI3g20fTlwNZoXw5sKsfpVUYU4B6pvCUKkneGaCaC0fNQNoJlniUwqq/9wU8L+WM9eBTXa6LFmt2Ll6tvdJIkZhdlta1ffyNnEshlA+yr9o/d3PAki7xvKEJOKmrKbr+rvTvEft/0WiRWvv+F5KsGMQPMBE1KgfpNP63aNXVUbKJaoSfX2DxFyPTKZefqp+zHkD+Nl9UNJiYZChqICzMaugpB2yFnF74p6y7un5bQuJBKxGci+FLzluNo5c= empel06@5CD322B26V",
+      ]
+    }
   }
 }
 
